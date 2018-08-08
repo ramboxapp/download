@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://rambox.pro"><img src="https://new.rambox.pro/images/logo/256x256.png" alt="Rambox Pro"></a>
+  <a href="http://rambox.pro"><img src="https://rambox.pro/images/logo/256x256.png" alt="Rambox Pro"></a>
   <br>
   Rambox Pro
   <br>
