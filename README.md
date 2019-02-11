@@ -8,7 +8,7 @@
 </h1>
 <hr />
 
-# [Download](https://github.com/ramboxapp/download/releases/download/latest)
+# [Download](https://github.com/ramboxapp/download/releases/latest)
 
 # Supported Platforms
 
