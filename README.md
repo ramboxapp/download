@@ -1,17 +1,8 @@
-<h1 align="center">
-  <br>
-  <a href="http://rambox.pro"><img src="https://rambox.pro/images/logo/256x256.png" alt="Rambox Pro"></a>
-  <br>
-  Rambox Pro
-  <br>
-  <br>
-</h1>
-<hr />
+<a href="https://rambox.app"><img src="https://user-images.githubusercontent.com/2694669/150184084-2238da8b-f34a-42df-83ff-19000de77bf1.png" width="100%" alt="Rambox">
+</a>
 
 # [Download](https://github.com/ramboxapp/download/releases/latest)
 
 # Supported Platforms
 
-### - Windows (32 & 64 bits)
-### - macOS
-### - Linux (64 bit for now)
+### - Windows, macOS aand Linux
