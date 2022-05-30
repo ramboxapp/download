@@ -5,4 +5,4 @@
 
 # Supported Platforms
 
-### - Windows, macOS aand Linux
+### - Windows, macOS and Linux
